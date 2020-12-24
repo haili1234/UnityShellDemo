@@ -3,7 +3,7 @@
 #设置启动Unity 应用路径
 UNITY_PATH=/Applications/Unity/Hub/Editor/2020.1.9f1c1/Unity.app/Contents/MacOS/Unity
 #应用项目路径（根路径）
-PROJECT_PATH=/Users/animeking/Documents/Study/GitHub/UnityShellDemo
+PROJECT_PATH=/Users/animeking/Documents/Study/GitHub/UnityShellDemo/Project
 #应用日志存放路径
 BUILD_LOG_PATH=${PROJECT_PATH}/build.log
 #项目生成路径（暂时在引擎中写死）
