@@ -2,7 +2,8 @@
 基于Unity3D项目，利用Shell命令进行项目自动化打包。
 
 一、操作环境：
-硬件：MacPro  系统 ：macOS 终端
+
+硬件：MacBookPro     系统 ：macOS 终端
 
 二、操作步骤：
 
